@@ -1,0 +1,5 @@
+# Ignore the image directory
+image/
+
+# Ignore Jupyter Notebook checkpoint directories
+.ipynb_checkpoints/
